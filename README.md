@@ -6,7 +6,9 @@ My name is Mustafa. I am a BEng Mechanical Engineering gradute, recently complet
 
 - 🌱 I’m currently learning Java and bit on TypeScript and Python
 
-- 📫 How to reach me: My [LinkedIn](https://www.linkedin.com/in/mustafa-habashi-99a8a0152/)
+- 📫 How to reach me: My email mustafahabashi10@gmail.com
+
+- 💬 Connect with me: My [LinkedIn](https://www.linkedin.com/in/mustafa-habashi-99a8a0152/)
 
 
 
